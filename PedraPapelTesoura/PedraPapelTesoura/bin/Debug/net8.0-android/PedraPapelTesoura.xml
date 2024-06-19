@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PedraPapelTesoura</name>
+    </assembly>
+    <members>
+        <member name="T:PedraPapelTesoura.ViewModel.PedraPapelTesouraViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="P:PedraPapelTesoura.ViewModel.PedraPapelTesouraViewModel.Imagem">
+            <inheritdoc cref="F:PedraPapelTesoura.ViewModel.PedraPapelTesouraViewModel.imagem"/>
+        </member>
+        <member name="P:PedraPapelTesoura.ViewModel.PedraPapelTesouraViewModel.Resultado">
+            <inheritdoc cref="F:PedraPapelTesoura.ViewModel.PedraPapelTesouraViewModel.resultado"/>
+        </member>
+        <member name="P:PedraPapelTesoura.ViewModel.PedraPapelTesouraViewModel.Escolha">
+            <inheritdoc cref="F:PedraPapelTesoura.ViewModel.PedraPapelTesouraViewModel.escolha"/>
+        </member>
+        <member name="P:PedraPapelTesoura.ViewModel.PedraPapelTesouraViewModel.PontuacaoJogador">
+            <inheritdoc cref="F:PedraPapelTesoura.ViewModel.PedraPapelTesouraViewModel.pontuacaoJogador"/>
+        </member>
+        <member name="P:PedraPapelTesoura.ViewModel.PedraPapelTesouraViewModel.PontuacaoOponente">
+            <inheritdoc cref="F:PedraPapelTesoura.ViewModel.PedraPapelTesouraViewModel.pontuacaoOponente"/>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Imagem">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Imagem" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Resultado">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Resultado" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Escolha">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Escolha" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.PontuacaoJogador">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "PontuacaoJogador" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.PontuacaoOponente">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "PontuacaoOponente" generated properties.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Imagem">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Imagem" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Resultado">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Resultado" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Escolha">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Escolha" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.PontuacaoJogador">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "PontuacaoJogador" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.PontuacaoOponente">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "PontuacaoOponente" generated properties.</summary>
+        </member>
+    </members>
+</doc>

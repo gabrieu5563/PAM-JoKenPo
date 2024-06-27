@@ -9,7 +9,7 @@
 
     <ShellContent
         Title="Pedra Papel Tesoura"
-        ContentTemplate="{DataTemplate local:PedraPapelTesouraView}"
+        ContentTemplate="{DataTemplate local:PedraPapelTesoura}"
         Route="PedraPapelTesouraView" />
 
 </Shell>

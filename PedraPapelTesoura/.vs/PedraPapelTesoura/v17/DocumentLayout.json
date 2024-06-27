@@ -1,17 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\c4zum\\Desktop\\PedraPapelTesoura\\PedraPapelTesoura\\",
+  "WorkspaceRootPath": "C:\\Users\\Guilherme\\2AI_Projetos\\PAM-JoKenPo\\PedraPapelTesoura\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{41E5E5A7-E741-426B-9511-1EB70526337C}|PedraPapelTesoura\\PedraPapelTesoura.csproj|c:\\users\\c4zum\\desktop\\pedrapapeltesoura\\pedrapapeltesoura\\pedrapapeltesoura\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{41E5E5A7-E741-426B-9511-1EB70526337C}|PedraPapelTesoura\\PedraPapelTesoura.csproj|c:\\users\\guilherme\\2ai_projetos\\pam-jokenpo\\pedrapapeltesoura\\pedrapapeltesoura\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{41E5E5A7-E741-426B-9511-1EB70526337C}|PedraPapelTesoura\\PedraPapelTesoura.csproj|solutionrelative:pedrapapeltesoura\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41E5E5A7-E741-426B-9511-1EB70526337C}|PedraPapelTesoura\\PedraPapelTesoura.csproj|c:\\users\\c4zum\\desktop\\pedrapapeltesoura\\pedrapapeltesoura\\pedrapapeltesoura\\view\\pedrapapeltesouraview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{41E5E5A7-E741-426B-9511-1EB70526337C}|PedraPapelTesoura\\PedraPapelTesoura.csproj|c:\\users\\guilherme\\2ai_projetos\\pam-jokenpo\\pedrapapeltesoura\\pedrapapeltesoura\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E5E5A7-E741-426B-9511-1EB70526337C}|PedraPapelTesoura\\PedraPapelTesoura.csproj|solutionrelative:pedrapapeltesoura\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E5E5A7-E741-426B-9511-1EB70526337C}|PedraPapelTesoura\\PedraPapelTesoura.csproj|c:\\users\\guilherme\\2ai_projetos\\pam-jokenpo\\pedrapapeltesoura\\pedrapapeltesoura\\view\\pedrapapeltesouraview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41E5E5A7-E741-426B-9511-1EB70526337C}|PedraPapelTesoura\\PedraPapelTesoura.csproj|solutionrelative:pedrapapeltesoura\\view\\pedrapapeltesouraview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41E5E5A7-E741-426B-9511-1EB70526337C}|PedraPapelTesoura\\PedraPapelTesoura.csproj|c:\\users\\c4zum\\desktop\\pedrapapeltesoura\\pedrapapeltesoura\\pedrapapeltesoura\\view\\pedrapapeltesouraview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{41E5E5A7-E741-426B-9511-1EB70526337C}|PedraPapelTesoura\\PedraPapelTesoura.csproj|c:\\users\\guilherme\\2ai_projetos\\pam-jokenpo\\pedrapapeltesoura\\pedrapapeltesoura\\view\\pedrapapeltesouraview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{41E5E5A7-E741-426B-9511-1EB70526337C}|PedraPapelTesoura\\PedraPapelTesoura.csproj|solutionrelative:pedrapapeltesoura\\view\\pedrapapeltesouraview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -25,42 +29,51 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\2AI_Projetos\\PAM-JoKenPo\\PedraPapelTesoura\\PedraPapelTesoura\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "PedraPapelTesoura\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\2AI_Projetos\\PAM-JoKenPo\\PedraPapelTesoura\\PedraPapelTesoura\\AppShell.xaml.cs",
+              "RelativeToolTip": "PedraPapelTesoura\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T21:14:17.608Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\c4zum\\Desktop\\PedraPapelTesoura\\PedraPapelTesoura\\PedraPapelTesoura\\AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\2AI_Projetos\\PAM-JoKenPo\\PedraPapelTesoura\\PedraPapelTesoura\\AppShell.xaml",
               "RelativeDocumentMoniker": "PedraPapelTesoura\\AppShell.xaml",
-              "ToolTip": "C:\\Users\\c4zum\\Desktop\\PedraPapelTesoura\\PedraPapelTesoura\\PedraPapelTesoura\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Guilherme\\2AI_Projetos\\PAM-JoKenPo\\PedraPapelTesoura\\PedraPapelTesoura\\AppShell.xaml",
               "RelativeToolTip": "PedraPapelTesoura\\AppShell.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-06-19T17:33:47.195Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PedraPapelTesouraView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\c4zum\\Desktop\\PedraPapelTesoura\\PedraPapelTesoura\\PedraPapelTesoura\\View\\PedraPapelTesouraView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\2AI_Projetos\\PAM-JoKenPo\\PedraPapelTesoura\\PedraPapelTesoura\\View\\PedraPapelTesouraView.xaml.cs",
               "RelativeDocumentMoniker": "PedraPapelTesoura\\View\\PedraPapelTesouraView.xaml.cs",
-              "ToolTip": "C:\\Users\\c4zum\\Desktop\\PedraPapelTesoura\\PedraPapelTesoura\\PedraPapelTesoura\\View\\PedraPapelTesouraView.xaml.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\2AI_Projetos\\PAM-JoKenPo\\PedraPapelTesoura\\PedraPapelTesoura\\View\\PedraPapelTesouraView.xaml.cs",
               "RelativeToolTip": "PedraPapelTesoura\\View\\PedraPapelTesouraView.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-19T17:43:34.821Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PedraPapelTesouraView.xaml",
-              "DocumentMoniker": "C:\\Users\\c4zum\\Desktop\\PedraPapelTesoura\\PedraPapelTesoura\\PedraPapelTesoura\\View\\PedraPapelTesouraView.xaml",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\2AI_Projetos\\PAM-JoKenPo\\PedraPapelTesoura\\PedraPapelTesoura\\View\\PedraPapelTesouraView.xaml",
               "RelativeDocumentMoniker": "PedraPapelTesoura\\View\\PedraPapelTesouraView.xaml",
-              "ToolTip": "C:\\Users\\c4zum\\Desktop\\PedraPapelTesoura\\PedraPapelTesoura\\PedraPapelTesoura\\View\\PedraPapelTesouraView.xaml",
+              "ToolTip": "C:\\Users\\Guilherme\\2AI_Projetos\\PAM-JoKenPo\\PedraPapelTesoura\\PedraPapelTesoura\\View\\PedraPapelTesouraView.xaml",
               "RelativeToolTip": "PedraPapelTesoura\\View\\PedraPapelTesouraView.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
